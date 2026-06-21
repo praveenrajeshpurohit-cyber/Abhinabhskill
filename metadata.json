@@ -1,0 +1,6 @@
+{
+  "name": "Abhinabh Skill Development Portal",
+  "description": "Full-stack skill development and coaching portal mirroring abhinabhskill.com design, featuring a powerful dynamic visual-control admin dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
